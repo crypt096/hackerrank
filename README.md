@@ -1,1 +1,1 @@
-# hackerrank
+### HackerRank solutions by crypt0
