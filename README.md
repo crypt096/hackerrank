@@ -1,3 +1,3 @@
 ### HackerRank solutions by crypt0
 
-<img src="./assets/leetcode.svg" />
+<img src="./assets/hr-logo.png" />
